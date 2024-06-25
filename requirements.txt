@@ -1,0 +1,5 @@
+﻿pytest==8.2.2
+requests==2.32.3
+selenium==4.21.0
+webdriver-manager==4.0.1
+Faker==25.9.1
